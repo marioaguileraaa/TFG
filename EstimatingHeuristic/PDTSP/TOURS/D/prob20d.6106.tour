@@ -1,0 +1,49 @@
+NAME : prob20d.6106.tour
+COMMENT : Cost = 0_6106
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 01:05:34 2017
+TYPE : TOUR
+DIMENSION : 41
+TOUR_SECTION
+1
+38
+23
+27
+35
+24
+34
+32
+14
+29
+4
+37
+28
+26
+22
+33
+2
+17
+12
+3
+25
+40
+39
+7
+30
+5
+6
+19
+20
+9
+8
+31
+36
+41
+18
+21
+16
+15
+13
+10
+11
+-1
+EOF

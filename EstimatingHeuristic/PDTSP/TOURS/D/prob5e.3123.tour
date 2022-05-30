@@ -1,0 +1,19 @@
+NAME : prob5e.3123.tour
+COMMENT : Cost = 0_3123
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 01:05:32 2017
+TYPE : TOUR
+DIMENSION : 11
+TOUR_SECTION
+1
+9
+11
+10
+4
+8
+5
+3
+6
+7
+2
+-1
+EOF

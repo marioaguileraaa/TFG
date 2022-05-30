@@ -1,0 +1,39 @@
+NAME : prob15b.5391.tour
+COMMENT : Cost = 0_5391
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 01:05:33 2017
+TYPE : TOUR
+DIMENSION : 31
+TOUR_SECTION
+1
+30
+20
+27
+5
+21
+19
+24
+28
+22
+25
+12
+31
+16
+6
+23
+7
+4
+15
+10
+17
+29
+13
+2
+26
+9
+18
+8
+14
+3
+11
+-1
+EOF

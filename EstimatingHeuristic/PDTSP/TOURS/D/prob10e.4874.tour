@@ -1,0 +1,29 @@
+NAME : prob10e.4874.tour
+COMMENT : Cost = 0_4874
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 01:05:32 2017
+TYPE : TOUR
+DIMENSION : 21
+TOUR_SECTION
+1
+16
+19
+20
+21
+11
+12
+14
+18
+2
+6
+15
+13
+9
+3
+17
+5
+10
+4
+7
+8
+-1
+EOF

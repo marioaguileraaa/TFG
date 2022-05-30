@@ -1,0 +1,59 @@
+NAME : EIL51C.488.tour
+COMMENT : Cost = 0_488
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 16:52:40 2017
+TYPE : TOUR
+DIMENSION : 51
+TOUR_SECTION
+1
+32
+11
+16
+29
+21
+34
+9
+49
+39
+33
+45
+15
+44
+42
+19
+40
+41
+13
+47
+51
+6
+48
+8
+22
+2
+20
+35
+36
+3
+28
+31
+26
+7
+23
+43
+24
+14
+25
+18
+4
+17
+37
+10
+30
+50
+38
+5
+12
+46
+27
+-1
+EOF

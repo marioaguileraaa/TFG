@@ -1,0 +1,59 @@
+NAME : EIL51B.469.tour
+COMMENT : Cost = 0_469
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 17 16:52:40 2017
+TYPE : TOUR
+DIMENSION : 51
+TOUR_SECTION
+1
+32
+11
+16
+29
+21
+50
+34
+30
+9
+49
+10
+39
+33
+45
+15
+5
+38
+2
+20
+3
+35
+36
+28
+31
+26
+7
+43
+6
+27
+51
+46
+12
+47
+18
+4
+17
+37
+44
+42
+19
+40
+41
+13
+25
+14
+24
+23
+48
+8
+22
+-1
+EOF
